@@ -5,7 +5,7 @@ Soy web Full stack developer y Java developer
 
 
 Como desarrollador full stack junior me avala mi pasión por la programación y las nuevas tecnologías,dentro de mis credenciales y mis aptitudes
-soy una persona responsable y autodidacta, 
+soy una persona responsable y autodidacta.
 
 
 Habilidades: HTML5/CSS3/SASS/JAVASCRIPT/ANGULAR/REACT/NODEJS/MONGODB/MYSQL/PHP/SYMFONY/JAVA/DOCKER/GIT.
