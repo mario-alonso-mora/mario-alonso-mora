@@ -15,4 +15,4 @@ Metodologias : AGILE /SCRUM.
 📫 Cómo contactarme: Marioalonsomora84@gmail.com
 
 
-⚡ Dato curioso: Me encanta componer poesia ,escuchar musica y hacer deporte todos los dias .
+
