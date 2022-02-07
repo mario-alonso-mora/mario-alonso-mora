@@ -12,7 +12,7 @@ Habilidades: HTML5/CSS3/SASS/JAVASCRIPT/ANGULAR/REACT/NODEJS/MONGODB/MYSQL/PHP/S
 Metodologias : AGILE /SCRUM. 
 
 
-📫 Cómo contactarme: Marioalonsomora84@gmail.com
+📫 Cómo contactarme: marioalonsomora84@gmail.com
 
 
 
