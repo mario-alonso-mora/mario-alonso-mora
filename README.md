@@ -1,18 +1,7 @@
-Hola 👋, mi nombre es Mario Alonso Mora
+HoSoy Mario Alonso Mora, Full Stack Web Developer. Me apasiona la programación y me considero una persona responsable y autodidacta, siempre aprendiendo para estar al día con las últimas tendencias tecnológicas. Tengo habilidades en HTML5, CSS3, JavaScript, Angular, React, NodeJS, MongoDB, MySQL, PHP, Symfony, Java, Docker y Git, y experiencia en metodologías ágiles y Scrum. 
 
 
-Soy Full Stack Web Developer 
-
-
-Como desarrollador Full Stack Junior me avala mi pasión por la programación. Dentro de mis credenciales y mis aptitudes soy una persona responsable y autodidacta que sigue formándose para estar en la vanguardia de las últimas tendencias tecnológicas.
-
-
-Habilidades: HTML5/CSS3/SASS/JAVASCRIPT/ANGULAR/REACT/NODEJS/MONGODB/MYSQL/PHP/SYMFONY/JAVA/DOCKER/GIT.
-
-Metodologias : AGILE /SCRUM. 
-
-
-📫 Cómo contactarme: marioalonsomora84@gmail.com
+📫 Puedes contactarme en marioalonsomora84@gmail.com.
 
 
 
